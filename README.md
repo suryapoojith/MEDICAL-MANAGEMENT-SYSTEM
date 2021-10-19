@@ -1,0 +1,2 @@
+# MEDICAL-MANAGEMENT-SYSTEM
+Project in Medical Management System : Medical Shop Management System is an application project developed for medical shops. This system is a field concerned with purchasing and selling medicines, maintaining their inventory, generating sales invoices and generating reminders of expiry date about medicines. It requires more time and effort when all procedures are performed manually.
